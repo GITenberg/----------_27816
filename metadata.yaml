@@ -1,0 +1,41 @@
+_repo: '----------_27816'
+_version: 0.1.0
+alternative_title:
+- On the Soul
+- De Anima
+contributor:
+  translator:
+    agent_name: Gratsiatos, Paulos
+    alias: Γρατσιάτος, Παύλος
+    gutenberg_agent_id: '32924'
+    url: http://www.gutenberg.org/2009/agents/32924
+covers:
+- cover_type: archival
+  image_path: 27816-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Αριστοτέλης
+    - Aristoteles
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aristotle
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2009-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27816'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology -- Early works to 1850'
+- !lcc 'B'
+title: Περί Ψυχής
+url: http://www.gutenberg.org/ebooks/27816
