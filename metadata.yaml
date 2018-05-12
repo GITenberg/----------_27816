@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aristotle
     - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27816#----------
 gutenberg_issued: '2009-01-15'
 gutenberg_type: Text
 identifiers:
